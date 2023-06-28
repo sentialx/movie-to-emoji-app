@@ -1,20 +1,21 @@
-# Weather App
-This Android application provides weather information based on the user's location and allows searching for weather by entering a location. The app utilizes the API provided by api.weatherapi.com to fetch weather data.
+# Movie Title to Emoji Android App
+
+This Java Android application takes a movie title as input and uses OpenAI gpt-3.5-turbo model to convert the movie title into an emoji representation. The app is designed to be fun, engaging, and intuitive to use. 
 
 ## Features
-- Location-Based Weather: The app uses the device's location services to fetch weather information specific to the user's current location.
-- Search Weather by Location: Users can search for weather information by entering a specific location.
-- 10 days forecast: App displays weather forescast for next 10 days.
-- API Integration: The app integrates with the api.weatherapi.com API to fetch real-time weather data.
+
+- User-friendly interface
+- Input with movie title
+- OpenAI gpt-3.5 integration
+- Emoji output
+- Progress bar
 
 ## Technologies Used
-The Weather App is built using the following technologies:
+The App is built using the following technologies:
 
-- Java: The app is written in the Java programming language.
-- Android SDK: It utilizes the Android Software Development Kit for building Android applications.
-- Location Services: The app utilizes the device's location services to determine the user's location.
-- Weather API: The app integrates with the api.weatherapi.com API to fetch weather data.
+- Java
+- Android SDK
+- OpenAI API: The app integrates with the OpenAI API to generate prompt completions.
 
-## Appearance
-<img src="https://github.com/olimpialewinska/WeatherApp/assets/100933608/602563c9-2898-4d63-b00a-ef095707d676" height="600"/>
-
+## Screenshot
+https://github.com/sentialx/movie-to-emoji-app/assets/11065386/73845aea-9219-4458-9fb2-369e5a763d4c
