@@ -1,5 +1,7 @@
 # Movie Title to Emoji Android App
 
+Don't bother, this is an app for my university and this description was GPT-generated.
+
 This Java Android application takes a movie title as input and uses OpenAI gpt-3.5-turbo model to convert the movie title into an emoji representation. The app is designed to be fun, engaging, and intuitive to use. 
 
 ## Features
